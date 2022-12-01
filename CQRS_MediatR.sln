@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_MediatR", "CQRS_MediatR\CQRS_MediatR.csproj", "{CDCBB788-9222-4555-BF15-04CA7C09CCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCBB788-9222-4555-BF15-04CA7C09CCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCBB788-9222-4555-BF15-04CA7C09CCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCBB788-9222-4555-BF15-04CA7C09CCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCBB788-9222-4555-BF15-04CA7C09CCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F62D6E-A48C-4DEE-B5C8-05D7871BE93B}
+	EndGlobalSection
+EndGlobal
