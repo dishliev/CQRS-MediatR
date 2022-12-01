@@ -6,6 +6,8 @@ C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_Mediat
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\CQRS_MediatR.dll
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\CQRS_MediatR.pdb
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\MediatR.dll
+C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -60,5 +62,3 @@ C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_Mediat
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\obj\Debug\net6.0\CQRS_MediatR.pdb
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\obj\Debug\net6.0\CQRS_MediatR.genruntimeconfig.cache
 C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\obj\Debug\net6.0\ref\CQRS_MediatR.dll
-C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\MediatR.dll
-C:\Users\kdishliev\Documents\GitHub\ASP.NET-Core-WebApi-CQRS_MediatR\CQRS_MediatR\bin\Debug\net6.0\MediatR.Contracts.dll
