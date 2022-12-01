@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kdishliev\\Desktop\\CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj": {}
+    "C:\\Users\\kdishliev\\Documents\\GitHub\\ASP.NET-Core-WebApi-CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kdishliev\\Desktop\\CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj": {
+    "C:\\Users\\kdishliev\\Documents\\GitHub\\ASP.NET-Core-WebApi-CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kdishliev\\Desktop\\CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj",
+        "projectUniqueName": "C:\\Users\\kdishliev\\Documents\\GitHub\\ASP.NET-Core-WebApi-CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj",
         "projectName": "CQRS_MediatR",
-        "projectPath": "C:\\Users\\kdishliev\\Desktop\\CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj",
+        "projectPath": "C:\\Users\\kdishliev\\Documents\\GitHub\\ASP.NET-Core-WebApi-CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj",
         "packagesPath": "C:\\Users\\kdishliev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kdishliev\\Desktop\\CQRS_MediatR\\CQRS_MediatR\\obj\\",
+        "outputPath": "C:\\Users\\kdishliev\\Documents\\GitHub\\ASP.NET-Core-WebApi-CQRS_MediatR\\CQRS_MediatR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,26 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
