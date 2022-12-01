@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qziWyqtfRwIAphGY9a+TEeWJ8Tuitv0EcM/KjkHmAfclTifOK+zk5NcSuKx6Car40DYQk5/fsotWPy/oUUkuqw==",
+  "dgSpecHash": "q4rXNhbDk0MfKqsLa3lZeFfPQ2uPMECXHiB7IuRFjgU2Ew6oMrNfRDnSxV3t1aEgvGZeA1JGYCUwaWUsxwk66Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\kdishliev\\Documents\\GitHub\\ASP.NET-Core-WebApi-CQRS_MediatR\\CQRS_MediatR\\CQRS_MediatR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kdishliev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\kdishliev\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\kdishliev\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\kdishliev\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\kdishliev\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\kdishliev\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
